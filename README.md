@@ -4,6 +4,8 @@
 
 ![Screenshot 2023-04-24 at 10-14-18 Ronald - Portifólio](https://user-images.githubusercontent.com/112557309/234021191-2ebf3935-bdac-4049-ae4b-3e8d0d9fe6a0.png)
 
+<a href = "https://portifolio-lbhe.vercel.app/">[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=35&center=true&vCenter=true&width=1000&lines=Disponível+Aqui;)](https://git.io/typing-svg)
+
 ---
 
 ## 🤳🏽 Sobre
